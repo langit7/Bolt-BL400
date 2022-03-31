@@ -1,5 +1,11 @@
-"# Bolt-BL400" 
- ``~ # cat /proc/mtd
+"# Bolt-BL400"
+Brand Gemtek WLTQS-103 
+SoC = AR9344
+NAND Flash MX30LF1GE8AB-TI 
+RAM = 128M
+
+Partisi
+```~ # cat /proc/mtd
 dev:    size   erasesize  name
 mtd0: 00100000 00020000 "Bootloader"
 mtd1: 00100000 00020000 "Bootloader2"
@@ -9,5 +15,4 @@ mtd4: 00280000 00020000 "Env2"
 mtd5: 02000000 00020000 "Kernel"
 mtd6: 02000000 00020000 "Kernel2"
 mtd7: 01c00000 00020000 "Storage1"
-mtd8: 01c00000 00020000 "Storage2"
-``
+mtd8: 01c00000 00020000 "Storage2"```
