@@ -1,5 +1,5 @@
 "# Bolt-BL400"
-Brand Gemtek WLTQS-103 
+```Brand Gemtek WLTQS-103 
 SoC = AR9344
 NAND Flash MX30LF1GE8AB-TI 
 RAM = 128M
