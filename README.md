@@ -16,3 +16,6 @@ mtd5: 02000000 00020000 "Kernel"
 mtd6: 02000000 00020000 "Kernel2"
 mtd7: 01c00000 00020000 "Storage1"
 mtd8: 01c00000 00020000 "Storage2"```
+
+Set imei 
+SetMtsIdentities 1C:49:7B:EA:EA:49 imei GMK180130003046
